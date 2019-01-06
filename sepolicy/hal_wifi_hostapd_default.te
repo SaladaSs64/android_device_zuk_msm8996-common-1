@@ -1,0 +1,2 @@
+allow hal_wifi_hostapd_default sysfs_pcie:dir search;
+allow hal_wifi_hostapd_default sysfs_wifi:dir search;
